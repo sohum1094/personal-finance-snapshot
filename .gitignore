@@ -2,3 +2,4 @@ global.env
 backend/.env
 backend/personal-finance-snapshot-firebase-adminsdk-ub403-53c2c8a22d.json
 backend/plaid_server.log
+backend/backend_server.log
